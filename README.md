@@ -43,6 +43,18 @@ The management team needed a Business Intelligence dashboard to:
     <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
 </p>
 
+## Overall Analysis View
+
+<p align="center">
+    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+</p>
+
+## Monthly Analysis View
+
+<p align="center">
+    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+</p>
+
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. 
