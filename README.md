@@ -58,14 +58,15 @@ The management team needed a Business Intelligence dashboard to:
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. 
-- By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-- Learnt to build a star schema data model for efficient reporting.
+- **By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
+- Learnt to build a star schema data model for efficient reporting.**
 
 ## Some Important insights from the Dashboard
 
 - Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 - AtliQ Bay has the highest occupancy of 66%
+- 28.17% revenue decline in the final four days of the month, and a 0.24% June occupancy dip vs. average.
 - Week 24 recorded the highest revenue among all, which is 139.6 Million
 - Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 - AtliQ lost around 298 Million in cancellation 
